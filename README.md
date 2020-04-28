@@ -18,7 +18,7 @@ Esse código foi criado por volta de 2014 e 2015.
 
 Estou subindo ele em 2020 para o github para que possa ser consultado e re-implementado em plataformas mais novas de WSN (como o contiki). :)
 
-De 2014 ou 2015 para cá não mechi mais nesse codigo e não sei se essa versão está funcional para rodar no emulador Solarium. xD
+De 2014 ou 2015 para cá não mexi mais nesse codigo e não sei se essa versão está funcional para rodar no emulador Solarium. xD
 
 Qualquer dúvida -> gabriel@labnet.nce.ufrj.br
 
