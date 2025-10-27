@@ -20,5 +20,5 @@ Estou subindo ele em 2020 para o github para que possa ser consultado e re-imple
 
 De 2014 ou 2015 para cá não mexi mais nesse codigo e não sei se essa versão está funcional para rodar no emulador Solarium.
 
-Qualquer dúvida -> gabriel@labnet.nce.ufrj.br
+Qualquer dúvida -> gabrielcaldas@ic.ufrj.br
 
